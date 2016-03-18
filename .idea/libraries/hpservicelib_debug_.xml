@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hpservicelib-debug-">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/testapplication/build/intermediates/exploded-aar/hpservicelib-debug/res" />
+      <root url="jar://$PROJECT_DIR$/testapplication/build/intermediates/exploded-aar/hpservicelib-debug/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

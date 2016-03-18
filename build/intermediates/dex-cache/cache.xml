@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Work\Projects\Android\HpService\testapplication\build\intermediates\exploded-aar\hpservicelib-debug\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="43ec3a61e6fec5ce7312982108e6ae85e60c4dce">
+        <dex dex="D:\Work\Projects\Android\HpService\testapplication\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-hpservicelib-debug_dffe97209ee2974bde698f1f248e0dfefd6aabb7.jar" />
+    </item>
+
+</items>
